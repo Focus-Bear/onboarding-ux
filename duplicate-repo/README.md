@@ -12,8 +12,13 @@ Your first assignment is to **duplicate this repository** into a new public repo
 ## ✅ **How to Duplicate This Repository**
 Follow these steps carefully to set up your own intern repository.
 
-### **1️⃣ Fork this repository **
-1. Refer to https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+### **1️⃣ Create a New Public Repository**
+1. Go to [GitHub](https://github.com/).
+2. Click on **New Repository**.
+3. Name it something like `your-username-intern-repo`.
+4. **Set it to Public** (so we can review it).
+5. **Initialize with a README and MIT License**.
+6. Copy the new repository URL.
 
 ### **2️⃣ Create a GitHub Personal Access Token**
 To allow the script to create issues, labels, and milestones, you need to generate a **fine-grained personal access token**.
