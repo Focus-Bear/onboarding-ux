@@ -21,15 +21,6 @@ const GITHUB_API = 'https://api.github.com/repos';
 
 // 🚨 **Milestones to exclude**
 const MILESTONES_TO_EXCLUDE = [
-  "7. Redux",
-  "5. React fundamentals",
-  "3. Learn git",
-  "4. Clean Code",
-  "5. Introduction to Automated E2E Testing",
-  "6. Writing & Running E2E Tests",
-  "7. Debugging/Troubleshooting Tests",
-  "8. Jest for unit tests",
-  "6. Debugging"
 ];
 
 // 🚀 **Milestones to include** (Set to ['*'] to include all except exclusions)
